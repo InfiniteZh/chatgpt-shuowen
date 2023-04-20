@@ -8,7 +8,7 @@
 import { computed } from 'vue'
 import { NAvatar } from 'naive-ui'
 import { useUserStore } from '@/store'
-import defaultAvatar from '@/assets/avatar.jpg'
+import defaultAvatar from '@/assets/boqi.jpg'
 import { isString } from '@/utils/is'
 
 const userStore = useUserStore()
